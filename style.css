@@ -164,3 +164,12 @@ li, a {
     border-radius: 10px;
     border:#F9FAF8 solid 2px;
 }
+
+/*CSS for fifth div 'footer'*/
+.footer {
+    background-color: #1F2937;
+    text-align: center;
+    color:#cfcfcf;
+    font-size:16px;
+    padding:25px;
+}
