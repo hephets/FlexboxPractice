@@ -133,4 +133,34 @@ li, a {
     color:#1F2937;
 }
 
-
+/* CSS for fourth div 'callbutton' */
+.callbutton {
+    padding: 100px 200px;
+}
+.bluebox {
+    background-color:#3882F6;
+    border-radius: 8px;
+    padding: 50px 100px;
+    display:flex;
+    justify-content:space-between;
+}
+.bbtext{
+    display:flex;
+    flex-direction: column;
+}
+.btext {
+    color:#F9FAF8;
+    font-weight:600;
+    font-size:22px;
+}
+.bsubtext {
+    color:#cfcfcf;
+    font-size:16px;
+}
+.button button{
+    background-color:#3882F6;
+    color:#F9FAF8;
+    padding: 8px 26px;
+    border-radius: 10px;
+    border:#F9FAF8 solid 2px;
+}
